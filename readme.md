@@ -6,3 +6,5 @@ Maine
 New York
 Alabama
 Alaska
+Idaho
+Washington
